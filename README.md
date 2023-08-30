@@ -2,13 +2,11 @@
 
 # Title Module_1_Challenge
 
-## Overview and Origin
-
-* What is the name of the company? 
-ZIP Co Limited
-
-* When was the company incorporated? 
-2013
+## Overview and Origin :
+  1. What is the name of the company? 
+  - *ZIP Co Limited*
+  2. When was the company incorporated? 
+  - **2013**
 
 * Who are the founders of the company? 
 Larry Diamond and Peter Gray
