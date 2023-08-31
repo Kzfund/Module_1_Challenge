@@ -1,6 +1,6 @@
 # ZIP Research and Analysis # 
 *Questions below are to be answered*
-## Overview and Origin :
+## Overview and Origin ##
   1. What is the name of the company? 
   - **ZIP Co Limited.**
   2. When was the company incorporated? 
@@ -25,7 +25,7 @@
   9. Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
   - **ZIP uses industry-standard and bank-level SSL encryption technology, along-side a world-class firewall system to ensure security is optimal. No creditials are stored and only read-only information of recent transactions are available.** 
 
-## Landscape
+## Landscape ##
 
   10. What domain of the financial industry is the company in?
   - **The domain is the buy now pay later space which is under payments/billing.**
@@ -35,7 +35,7 @@
   12. What are the other major companies in this domain?
   - **Afterpay would be one of the leaders in this space, Sezzle is also quite a large competitor capturing large amounts of market share in the US.** 
 
-## Results
+## Results ##
 
   13. What has been the business impact of this company so far?
   - **Currently with a large decrease in consumer discretionary spending due to recessionary fears, the amount of transactions have greatly decreased impacting the businesses sales and return on investment with their marketing campaigns.** 
@@ -48,7 +48,7 @@ Sales has been troubled due to economic disturbances world-wide, in order to com
   - **ZIP is currently facing difficulties with their cash flow burn as they have not been profitable like other companies in the same domain. They are spending significantly more than others in their global expansion which harms their return on investment (ROI).**
 
 
-## Recommendations
+## Recommendations ##
 
   16. If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
   - **I would suggest they have the same offering as Afterpay which is a product that requires fortnightly installments up to 4 times that does not charge interest if paid on time.** 
@@ -64,7 +64,7 @@ Sales has been troubled due to economic disturbances world-wide, in order to com
 
 
 
-# Sources
+# Sources #
   1. https://contevo.com.au/afterpay-vs-zippay-what-you-need-to-know-about-bnpl-for-        business/#:~:text=Afterpay%20collects%20a%20quarter%20of,weekly%2C%20fortnightly%20or%20monthly%20basis.
   2. https://productmint.com/zip-business-model-how-does-zip-make-money/
   3. https://www.smh.com.au/business/banking-and-finance/zipmoney-goes-for-major-retailers-with-100m-debt-fund-20151118-gl1knm.html
