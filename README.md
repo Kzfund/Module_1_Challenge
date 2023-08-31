@@ -28,7 +28,7 @@
 ## Landscape
 
   10. What domain of the financial industry is the company in?
-  -**The domain is the buy now pay later space which is under payments/billing.**
+  - **The domain is the buy now pay later space which is under payments/billing.**
 
   11. What have been the major trends and innovations of this domain over the last 5–10 years?
   - **The concept of buy now pay later is quite new and they capitalise technology in implementing it's practise to ensure efficiency and accuracy.** 
