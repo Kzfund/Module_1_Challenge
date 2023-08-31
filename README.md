@@ -68,3 +68,10 @@ Sales has been troubled due to economic disturbances world-wide, in order to com
   1. https://contevo.com.au/afterpay-vs-zippay-what-you-need-to-know-about-bnpl-for-        business/#:~:text=Afterpay%20collects%20a%20quarter%20of,weekly%2C%20fortnightly%20or%20monthly%20basis.
   2. https://productmint.com/zip-business-model-how-does-zip-make-money/
   3. https://www.smh.com.au/business/banking-and-finance/zipmoney-goes-for-major-retailers-with-100m-debt-fund-20151118-gl1knm.html
+  4. https://www.crunchbase.com/organization/zipmoney-payments/company_financials
+  5. https://en.wikipedia.org/wiki/Zip_Co
+  6. https://www.reuters.com/business/finance/australias-bnpl-firm-zip-streamline-cost-operations-official-2023-07-03/#:~:text=Earlier%20this%20year%2C%20Zip%20said,by%20the%20end%20of%202023.
+  7. https://www.afr.com/companies/financial-services/zip-reports-narrower-loss-as-bnpl-adapts-to-downturn-20230829-p5e06c
+  8. https://www.retailbiz.com.au/topics/finance/zip-brings-tap-to-pay-technology-to-business-customers/
+  9. https://www.canstar.com.au/buy-now-pay-later/afterpay-versus-zip-pay/
+  10. https://www.choice.com.au/shopping/online-shopping/buying-online/articles/what-is-zippay-can-it-be-trusted-010318#:~:text=Zip%20has%20a%20'Tap%20to,don't%20partner%20with%20Zip.
