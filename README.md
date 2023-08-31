@@ -1,25 +1,24 @@
-# Module_1_Challenge
-
-# Title Module_1_Challenge
-
+# ZIP Research and Analysis # 
+*Questions below are to be answered*
 ## Overview and Origin :
   1. What is the name of the company? 
-  - *ZIP Co Limited*
+  - **ZIP Co Limited.**
   2. When was the company incorporated? 
-  - **2013**
+  - **2013.**
 
-* Who are the founders of the company? 
-Larry Diamond and Peter Gray
+  3. Who are the founders of the company? 
+  - **Larry Diamond and Peter Gray.**
 
-* How did the idea for the company (or project) come about? 
-Larry saw an opportunity to digitise financial services with innovative products that bring customers and merchants together 
+  4. How did the idea for the company (or project) come about? 
+  -**Larry saw an opportunity to digitise financial services with innovative products that bring customers and merchants together.**
 
-* How is the company funded? How much funding have they received? 
-The company was intially funded by US Fund Victory Park Capital with $1 million in equity and $100 million in debt facility. 
+  5. How is the company funded? How much funding have they received? 
+-**The company was intially funded by US Fund Victory Park Capital with $1 million in equity and $100 million in debt facility.** 
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve? Zip is a buy now, pay later lender that is trying to solve the problem of customers getting charged interest on the items they purchase with interest-free periods for between 3-6 months. 
+6. What specific financial problem is the company or project trying to solve?
+   -**Zip is a buy now, pay later lender that is trying to solve the problem of customers getting charged interest on the items they purchase with interest-free periods for between 3-6 months.**
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers? 
 The company's intended customers are mainly merchants that sell goods and services. Customers primarily younger people under 30s mainly use their software to make purchases. The Buy Now Pay Later market size is worth $309.2 billion as of 2023. 
@@ -73,4 +72,3 @@ ZIP is currently facing difficulties with their cash flow burn as they have not 
 https://contevo.com.au/afterpay-vs-zippay-what-you-need-to-know-about-bnpl-for-business/#:~:text=Afterpay%20collects%20a%20quarter%20of,weekly%2C%20fortnightly%20or%20monthly%20basis.
 https://productmint.com/zip-business-model-how-does-zip-make-money/
 https://www.smh.com.au/business/banking-and-finance/zipmoney-goes-for-major-retailers-with-100m-debt-fund-20151118-gl1knm.html
-# Module_1_Challenge
