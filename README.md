@@ -62,8 +62,6 @@ Sales has been troubled due to economic disturbances world-wide, in order to com
 
 
 
-
-
 # Sources #
   1. https://contevo.com.au/afterpay-vs-zippay-what-you-need-to-know-about-bnpl-for-        business/#:~:text=Afterpay%20collects%20a%20quarter%20of,weekly%2C%20fortnightly%20or%20monthly%20basis.
   2. https://productmint.com/zip-business-model-how-does-zip-make-money/
